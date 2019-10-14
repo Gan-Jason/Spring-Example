@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0470e57a-7e3e-4676-a90a-bd258ca8daf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnnotationAOP/src/main/java/com/gan/config/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationAOP/src/main/java/com/gan/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationAOP/src/main/java/com/gan/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit_Spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit_Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit_Spring/src/main/java/com/gan/factory/Beanfactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit_Spring/src/main/java/com/gan/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Junit_Spring/src/main/java/com/gan/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/artifacts/Socket_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/artifacts/Socket_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/Configure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/com/gan/socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket/src/com/gan/socket/Hmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAOP/src/main/java/com/gan/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAOP/src/main/java/com/gan/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAOP/src/main/java/com/gan/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAOP/src/test/java/com/gan/test/AOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account_anno_IoC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account_anno_IoC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account_anno_IoC/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/cglib/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/cglib/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/proxy/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/proxy/IProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/main/java/proxy/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-launch/src/main/java/com/gan/springbootlaunch/Model/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-launch/src/test/java/com/gan/springbootlaunch/Controller/StaticLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-launch/src/test/java/com/gan/springbootlaunch/Controller/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PyProject/MyWeb/news/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mysql_common_command/Common_Command.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mysql_common_command/README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/bean.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1189">
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gan/test/AOPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gan/service/impl/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gan/test/AOPTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gan/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gan/utils/Logger.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\mvn-repository" />
+        <option name="mavenHome" value="E:/Java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gan" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adviceType" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adviceType" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AOPTest">
+    <configuration name="AOPTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adviceType" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gan.test.AOPTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AOPTest.testSaveAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adviceType" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gan.test.AOPTest" />
+      <option name="METHOD_NAME" value="testSaveAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AOPTest.testUpdateAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adviceType" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gan.test.AOPTest" />
+      <option name="METHOD_NAME" value="testUpdateAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="E:\Java\mvn-repository" />
+            <option name="mavenHome" value="E:/Java/apache-maven-3.6.1" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="E:\Java\apache-maven-3.6.1\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0470e57a-7e3e-4676-a90a-bd258ca8daf6" name="Default Changelist" comment="" />
+      <created>1569990633283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569990633283</updated>
+      <workItem from="1569990637107" duration="2903000" />
+      <workItem from="1570008542635" duration="8000" />
+      <workItem from="1570011730478" duration="24000" />
+      <workItem from="1570011770911" duration="9000" />
+      <workItem from="1570067815107" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AOPTest_testSaveAccount - 2019.10.02 at 12h 39m 43s.xml">
+      <configuration name="AOPTest.testSaveAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_testUpdateAccount - 2019.10.02 at 12h 41m 11s.xml">
+      <configuration name="AOPTest.testUpdateAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest - 2019.10.02 at 17h 02m 41s.xml">
+      <configuration name="AOPTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_testSaveAccount - 2019.10.02 at 17h 03m 18s.xml">
+      <configuration name="AOPTest.testSaveAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AOPTest_testSaveAccount - 2019.10.02 at 17h 04m 15s.xml">
+      <configuration name="AOPTest.testSaveAccount" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2958000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25963598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32705098" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gan/service/IAccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gan/utils/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gan/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gan/test/AOPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

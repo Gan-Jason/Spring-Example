@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:aop="http://www.springframework.org/schema/aop"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- 配置spring的IoC，把service对象配置进来-->
+    <bean id="accountService" class="com.gan.service.impl.AccountServiceImpl"></bean>
+                                                                                                                                                    =
+    <!-- spring中基于XML的AOP配置步骤
+        1.把通知Bean也交给spring管理
+        2.使用aop：config标签表明开始AOP的配置
+        3.使用aop：aspect标签表明配置切面
+
+     -->
+    <!-- 配置Logger类-->
+    <bean id="logger" class="com.gan.utils.Logger"></bean>
+
+
+    <!--配置AOP-->
+    <aop:config>
+        <!-- 配置切面（通知和切入点的结合）-->
+        <aop:aspect id="logAdvice" ref="logger"><!-- 配置通知类-->
+            <!--配置通知的类型，并建立通知方法和切入点方法的关联 -->
+            <aop:after method="printLog" pointcut="execution( * com.gan.service.impl.*.*(..))"></aop:after>
+        </aop:aspect>
+    </aop:config>
+
+
+
+</beans>
